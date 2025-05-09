@@ -33,4 +33,9 @@ This web aplication works in a way when the variables of the input element chang
 
 I refreshed my brain about the using root values i had forgotten all about it, ive gotten so used to tailwind, and i also learnt the change addEventListener and the mousemove addEventlistener and i can also apply that to the portfolio im building for more animations o ti ye ee!!!. 
 
+
+i also learned about the input attributes of color and range because this is my first seeing this bad boys.
+
+i also refreshed my use of data- attributes because i treated this in the first phase of this study
+
 i also learnt about applying css with js. ive seen someone use it once and its nice to know the trick behind it. id do well to use it in the future and be able to apply it if such arises
